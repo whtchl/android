@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\02_Workspace\\00_lunzi\\weex2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\02_Workspace\\00_lunzi\\weex2\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\00_lunzi\\weex2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "C:\\02_Workspace\\00_lunzi\\weex2\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    }
+]
